@@ -1,0 +1,123 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
+  <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
+    <mxGraphModel dx="2289" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="3d76a8aef4d5c911-1" value="&lt;font color=&quot;#b5b2b2&quot;&gt;Vista: Técnico Comercial&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-2" value="UPNA Direct" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=14;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-9" value="Mi perfil" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="660" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-10" value="Cerrar Sesión" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="730" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-17" value="Cliente" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="130" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-18" value="Seleccionar cliente..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fontColor=#B5B5B5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="150" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-19" value="Tipo de bien" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="210" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-20" value="Seleccionar tipo de bien..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fontColor=#B5B5B5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="230" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-51" value="Calcular ofertas y&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ofrecer oferta al cliente&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="310" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-53" value="Cancelar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#DB524C;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="310" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-1" value="Valor del bien" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="210" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-2" value="Introducir valor..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fontColor=#B5B5B5;" parent="1" vertex="1">
+          <mxGeometry x="315" y="230" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;o&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="590" y="150" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-4" value="Ir a registrar cliente" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="150" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="175" as="sourcePoint" />
+            <mxPoint x="540" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529.5" y="175" as="sourcePoint" />
+            <mxPoint x="520" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="255" as="sourcePoint" />
+            <mxPoint x="270" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiqKpKxYsHtYX_oPEJbt-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.5" y="255" as="sourcePoint" />
+            <mxPoint x="250" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Explicación en lenguaje natural&lt;/h1&gt;&lt;p&gt;El técnico comercial, ya iniciado sesión, verá esta pantalla cuando seleccione la opción de &quot;Ofrecer ofertas más ventajosas&quot;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;En ella seleccionará el cliente deseado, así como también podrá registrarlo cambiando de pantalla a la pantalla de registro. Luego, añadirá el tipo de bien y su valor, pudiendo continuar calculando las ofertas disponibles o cancelando la operación.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="430" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-4" value="&lt;font color=&quot;#b5b2b2&quot;&gt;Vista: Técnico Comercial&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1120" y="70" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-5" value="UPNA Direct" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=14;whiteSpace=wrap;" parent="EkoY1V8Vv62gkkFtOxhV-4" vertex="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-6" value="Mi perfil" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="EkoY1V8Vv62gkkFtOxhV-4" vertex="1">
+          <mxGeometry x="660" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-7" value="Cerrar Sesión" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="EkoY1V8Vv62gkkFtOxhV-4" vertex="1">
+          <mxGeometry x="730" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-12" value="Calculadora de ofertas" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-700" y="210" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Explicación en lenguaje natural&lt;/h1&gt;&lt;p&gt;El técnico comercial, ya iniciado sesión, verá esta pantalla principal en la que podrá seleccionar si desea registrar a un nuevo cliente en el sistema en &quot;Registrar cliente&quot; o si desea cal&lt;span style=&quot;background-color: initial;&quot;&gt;cular las ofertas de algún cliente en especial en &quot;Calculadora de ofertas&quot;.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-920" y="430" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-24" value="Registrar cliente" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-960" y="210" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="249.32999999999998" as="sourcePoint" />
+            <mxPoint x="-140" y="249.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EkoY1V8Vv62gkkFtOxhV-26" value="Cuando el técnico hace click&amp;nbsp;&lt;div&gt;en calculadora de ofertas&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EkoY1V8Vv62gkkFtOxhV-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.4517" y="-2" relative="1" as="geometry">
+            <mxPoint x="19" y="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeMSYNJlxTaNWWyOrlOi-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="249.33" as="sourcePoint" />
+            <mxPoint x="-280" y="249.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeMSYNJlxTaNWWyOrlOi-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="249.33000000000004" as="sourcePoint" />
+            <mxPoint y="249.33000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
